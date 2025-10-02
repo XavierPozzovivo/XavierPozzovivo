@@ -1,12 +1,10 @@
 👋 Hi, I’m Xavier Pozzovivo
 
 Voici où me trouver :
-- Linkedin : www.linkedin.com/in/xavierpozzovivo
-- Portfolio scientifique : [Portfolio](https://xavierpozzovivo.my.canva.site/)
-- LinkedIn : https://linkedin.com/in/tonnom  
-- Twitter : https://twitter.com/tonpseudo  
-- 📂 GitHub : https://github.com/XavierPozzovivo  
-- ✉️ Email : ton.email@domaine.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/xavierpozzovivo)
+- [Portfolio scientifique](https://xavierpozzovivo.my.canva.site/)
+- [Twitter](https://x.com/Xavierpozzovivo)
+- [ResearchGate](https://www.researchgate.net/profile/Xavier-Pozzovivo) 
 
 
 
