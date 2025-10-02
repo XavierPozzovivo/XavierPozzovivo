@@ -1,7 +1,7 @@
 👋 Hi, I’m Xavier Pozzovivo
 
 Voici où me trouver :
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/xavierpozzovivo)
+- [LinkedIn](www.linkedin.com/in/xavierpozzovivo)
 - [Portfolio scientifique](https://xavierpozzovivo.my.canva.site/)
 - [Twitter](https://x.com/Xavierpozzovivo)
 - [ResearchGate](https://www.researchgate.net/profile/Xavier-Pozzovivo) 
