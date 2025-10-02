@@ -1,7 +1,7 @@
 👋 Hi, I’m Xavier Pozzovivo
 
 Here’s where to find me :
-- [LinkedIn](www.linkedin.com/in/xavierpozzovivo)
+- [LinkedIn](https://www.linkedin.com/in/xavierpozzovivo)
 - [Portfolio scientifique](https://xavierpozzovivo.my.canva.site/)
 - [Twitter](https://x.com/Xavierpozzovivo)
 - [ResearchGate](https://www.researchgate.net/profile/Xavier-Pozzovivo) 
