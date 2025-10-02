@@ -1,6 +1,6 @@
 👋 Hi, I’m Xavier Pozzovivo
 
-Voici où me trouver :
+Here’s where to find me :
 - [LinkedIn](www.linkedin.com/in/xavierpozzovivo)
 - [Portfolio scientifique](https://xavierpozzovivo.my.canva.site/)
 - [Twitter](https://x.com/Xavierpozzovivo)
