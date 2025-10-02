@@ -2,7 +2,7 @@
 
 <!-- Cadre avec liens -->
 <p align="center">
-  <a href="https://twitter.com/toncompte" target="_blank">
+  <a href="https://x.com/Xavierpozzovivo" target="_blank">
     <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
